@@ -11,7 +11,9 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarankumar-p-954948257) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarankumar-p-954948257)  
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-%230f9cdd.svg?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/tarankumarp-2901/)  
+[![Google Developer](https://img.shields.io/badge/Google%20Developer-%23DB4437.svg?logo=google&logoColor=white)](https://g.dev/ptarankumar)
 
 ---
 
@@ -45,4 +47,4 @@
 ---
 
 ## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tarankumar_p) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tarankumar_p)
