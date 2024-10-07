@@ -44,29 +44,6 @@
   <span class="tech"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" /></span>
 </div>
 
-<style>
-  .tech-stack {
-    display: flex;
-    overflow: hidden;
-    white-space: nowrap;
-    animation: scroll 15s linear infinite;
-  }
-
-  .tech {
-    margin: 0 15px;
-    opacity: 0.8;
-    transition: opacity 0.3s ease;
-  }
-
-  .tech:hover {
-    opacity: 1;
-  }
-
-  @keyframes scroll {
-    0% { transform: translateX(100%); }
-    100% { transform: translateX(-100%); }
-  }
-</style>
 
 ---
 
