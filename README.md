@@ -44,15 +44,18 @@
   <span class="tech"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" /></span>
 </div>
 
-
 ---
 
 # 📊 GitHub Stats:
-[![trophy](https://github-profile-trophy.vercel.app/?username=tarankumar001&theme=algolia&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![](https://github-readme-stats.vercel.app/api?username=tarankumar001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tarankumar001&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarankumar001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+# 🏆 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=tarankumar001&theme=monokai&row=2&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
