@@ -1,58 +1,195 @@
-<h1 align="center">Turning Ideas Into Apps 🌎</h1>
-<h3 align="center">Hi 👋, I'm Tarankumar P</h3>
-<h3 align="center">A software developer from India</h3>
+<h1 align="center"><samp>Turning Ideas Into Apps</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
 
----
+<h2 align="center"><samp>Hi 👋 I'm P.Tarankumar</samp></h2>
+<h3 align="center"><samp>A Fullstack Web developer from India</samp> </h3>
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDhwNnU0MWw1djRwYnp2cjV0d3E0Z3gyejRxdXNoZGM2aDdzZmkyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" alt="Coding Animation" />
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugith10&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
+
+<div style="margin-bottom: 200px;"></div>
+
+<samp>- 📫 Reach me at https://www.linkedin.com/in/tarankumar-p-954948257/</samp>
+
+<samp>- 📫 Reach me at ptarankumar@gmail.com</samp>
+
+<samp>- 🌐 Full-stack web developer: Building dynamic web applications with modern technologies 💻</samp>
+
+<samp>- ⌨️ Fun fact: I spend approximately 14 hours coding every day, mastering both front-end and back-end! ⚙️</samp>
+
+
+
+
+<h3 align="center"><samp>Connect</samp></h3>
+<div style="display: flex; align-items: flex-start; align: center">
+  <table align="center">
+    <tr>
+      <td align="center" width="100">
+        <a href="https://www.linkedin.com/in/your-profile-link" target="_blank">
+          <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" />
+        </a>
+        <br>LinkedIn
+      </td>
+      <td align="center" width="100">
+        <a href="https://developers.google.com/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=google" width="45" height="45" alt="Google Dev" />
+        </a>
+        <br>Google Dev
+      </td>
+      <td align="center" width="100">
+        <a href="https://learn.microsoft.com/en-us/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=microsoft" width="45" height="45" alt="Microsoft Learn" />
+        </a>
+        <br>Microsoft Learn
+      </td>
+      <td align="center" width="100">
+        <a href="https://www.geeksforgeeks.org/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=geeksforgeeks" width="45" height="45" alt="Geeks for Geeks" />
+        </a>
+        <br>Geeks for Geeks
+      </td>
+      <td align="center" width="100">
+        <a href="https://leetcode.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" width="45" height="45" />
+        </a>
+        <br>Leetcode
+      </td>
+      <td align="center" width="100">
+        <a href="https://medium.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="45" height="45" />
+        </a>
+        <br>Medium
+      </td>
+    </tr>
+  </table>
+  <br><br>
 </div>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tarankumar001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
----
+<h3 align="center"><samp>💻 Languages and Tools</samp></h3>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="icon" width="45" height="45" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="icon" width="45" height="45" />
+      <br>Dart
+    </td>
+    <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="icon" width="45" height="45" />
+      </a>
+      <br>Firebase
+    </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/bloc.png" alt="icon" width="45" height="50" />
+      <br>BLoC
+    </td>
+   <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/riverpod.png" alt="icon" width="45" height="50" />
+      <br>Riverpod
+    </td>
+      <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQ Lite" />
+      <br>SQ Lite
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="45" height="45" />
+      <br>Kotlin
+    </td>
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="45" height="45" />
+      <br>Figma
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+           <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+          <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <br>My SQL
+    </td>
+           <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+       
+  </tr>
+ <tr>
+        <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
+      <br>Postman
+    </td>
+       <td align="center" width="100"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
+      <br>Github
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="android studio" />
+      <br>Android Studio
+    </td>
+            <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linu" />
+      <br>Linux
+    </td>
+     <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="firebase" />
+      <br>Apple
+    </td>
+     <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="linu" />
+      <br>Windows
+    </td>          
+ </tr>
+</table>
+<br><br>
+</div>
 
-- 🔗 **Reach me at:**  
-  [LinkedIn](https://linkedin.com/in/tarankumar-p-954948257) | [Google Developer](https://g.dev/ptarankumar)  
-- ✉️ **Email:** ptarankumar@gmail.com  
-- 💡 **Fun Fact:** I love combining my knowledge of cybersecurity and web development to create secure apps.  
+<h3 align="center"><samp>📟 GitHub Stats</samp></h3>
+<div style="display: flex; justify-content: space-between; align-items: stretch;">
+  <!-- Top Languages Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sugith10&show_icons=true&locale=en&layout=compact" alt="Sugith Top Languages" width="48%" height="200" style="object-fit: cover;"/>
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sugith10" alt="Sugith GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
+</div>
 
----
-
-<h3 align="center">Connect</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/tarankumar-p-954948257"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/your-profile"><img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode"/></a>
-  <a href="https://medium.com/your-profile"><img src="https://img.icons8.com/nolan/64/medium-logo.png" alt="Medium"/></a>
-</p>
-
----
-
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
----
-
-<h3 align="center">Fun Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarankumar001&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarankumar001&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
-<p align="center">✨ Creating secure and scalable solutions for the web ✨</p>
+<div style="margin-bottom: 60px;"></div>
+<h3 align="center"><samp>✍️Random Dev Quote</samp></h3>
+    <div>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
+    </div>
