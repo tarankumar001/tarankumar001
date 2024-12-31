@@ -183,9 +183,9 @@
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
 <div style="display: flex; justify-content: space-between; align-items: stretch;">
   <!-- Top Languages Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sugith10&show_icons=true&locale=en&layout=compact" alt="Sugith Top Languages" width="48%" height="200" style="object-fit: cover;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarankumar001&theme=vue-dark&hide_border=trueshow_icons=true&locale=en&layout=compact" alt="Tarankumar Top Languages" width="48%" height="200" style="object-fit: cover;"/>
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sugith10" alt="Sugith GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarankumar001&theme=vue-dark&hide_border=true" alt="Tarankumar GitHub Streak" style="width: 48%; height: 200px; object-fit: cover;" />
 </div>
 
 <div style="margin-bottom: 60px;"></div>
