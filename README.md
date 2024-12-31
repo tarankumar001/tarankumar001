@@ -131,20 +131,6 @@
       <br>Next.js
     </td>
   </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/davinciresolve/davinciresolve-icon.svg" width="48" height="48" alt="DaVinci Resolve" />
-      <br>DaVinci Resolve
-    </td>
-    <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Adobe_Photoshop_Logo_2023.svg/1024px-Adobe_Photoshop_Logo_2023.svg.png" width="48" height="48" alt="Adobe Photoshop" />
-      <br>Adobe Photoshop
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=videoediting" width="48" height="48" alt="Video Editing" />
-      <br>Video Editing
-    </td>
-  </tr>
 </table>
 <br><br>
 </div>
@@ -159,5 +145,6 @@
 
 <div style="margin-bottom: 60px;"></div>
 <h3 align="center"><samp>✍️Random Dev Quote</samp></h3>
-    <div>
-      <img src="https://quotes-github-readme.
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Developer Quote" />
+</div>
