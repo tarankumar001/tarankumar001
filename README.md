@@ -17,9 +17,6 @@
 
 <samp>- ⌨️ Fun fact: I spend approximately 14 hours coding every day, mastering both front-end and back-end! ⚙️</samp>
 
-
-
-
 <h3 align="center"><samp>Connect</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
   <table align="center">
@@ -65,117 +62,75 @@
   <br><br>
 </div>
 
-
-
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
     <td align="center" width="100">
       <a href="#macropower-tech">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="icon" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       </a>
-      <br>Flutter
+      <br>HTML5
     </td>
     <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="icon" width="45" height="45" />
-      <br>Dart
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
     </td>
     <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="icon" width="45" height="45" />
-      </a>
-      <br>Firebase
-    </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/bloc.png" alt="icon" width="45" height="50" />
-      <br>BLoC
-    </td>
-   <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/riverpod.png" alt="icon" width="45" height="50" />
-      <br>Riverpod
-    </td>
-      <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQ Lite" />
-      <br>SQ Lite
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="45" height="45" />
-      <br>Kotlin
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
     </td>
-       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="45" height="45" />
-      <br>Figma
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Node.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
     </td>
   </tr>
   <tr>
     <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
+      <br>GitHub
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-           <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-          <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-      <br>My SQL
-    </td>
-           <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-       
-  </tr>
- <tr>
-        <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
-      <br>Postman
-    </td>
-       <td align="center" width="100"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
-      <br>Github
+      <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
+      <br>Windows
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="android studio" />
-      <br>Android Studio
-    </td>
-            <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linu" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
-     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="firebase" />
-      <br>Apple
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" />
+      <br>Figma
     </td>
-     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="linu" />
-      <br>Windows
-    </td>          
- </tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
+      <br>Three.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+  </tr>
 </table>
 <br><br>
 </div>
@@ -185,7 +140,7 @@
   <!-- Top Languages Stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarankumar001&theme=vue-dark&hide_border=trueshow_icons=true&locale=en&layout=compact" alt="Tarankumar Top Languages" width="48%" height="200" style="object-fit: cover;"/>
   <!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarankumar001&theme=vue-dark&hide_border=true" alt="Tarankumar GitHub Streak" style="width: 48%; height: 200px; object-fit: cover;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarankumar001&theme=vue-dark&hide_border=true" alt="Tarankumar GitHub Streak" style="width: 48%; height: 200px; object-fit: cover;" />
 </div>
 
 <div style="margin-bottom: 60px;"></div>
