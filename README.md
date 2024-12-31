@@ -28,20 +28,14 @@
         <br>LinkedIn
       </td>
       <td align="center" width="100">
-        <a href="https://developers.google.com/" target="_blank">
-          <img src="https://skillicons.dev/icons?i=google" width="45" height="45" alt="Google Dev" />
+        <a href="[https://developers.google.com/"](https://g.dev/ptarankumar) target="_blank">
+          <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="Google Dev" />
         </a>
         <br>Google Dev
       </td>
       <td align="center" width="100">
-        <a href="https://learn.microsoft.com/en-us/" target="_blank">
-          <img src="https://skillicons.dev/icons?i=microsoft" width="45" height="45" alt="Microsoft Learn" />
-        </a>
-        <br>Microsoft Learn
-      </td>
-      <td align="center" width="100">
         <a href="https://www.geeksforgeeks.org/" target="_blank">
-          <img src="https://skillicons.dev/icons?i=geeksforgeeks" width="45" height="45" alt="Geeks for Geeks" />
+          <img src="https://skillicons.dev/icons?i=fediverse" width="45" height="45" alt="Geeks for Geeks" />
         </a>
         <br>Geeks for Geeks
       </td>
