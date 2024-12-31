@@ -15,7 +15,7 @@
 
 <samp>- 🌐 Full-stack web developer: Building dynamic web applications with modern technologies 💻</samp>
 
-<samp>- ⌨️ Fun fact: I spend approximately 14 hours coding every day, mastering both front-end and back-end! ⚙️</samp>
+<samp>- ⌨️ Fun fact: I spend approximately 4 hours coding every day, mastering both front-end and back-end! ⚙️</samp>
 
 <h3 align="center"><samp>Connect</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
