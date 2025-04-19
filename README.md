@@ -13,9 +13,9 @@
 
 <samp>- 📫 Reach me at ptarankumar@gmail.com</samp>
 
-<samp>- 🌐 Full-stack web developer: Building dynamic web applications with modern technologies 💻</samp>
+<samp>- 🌐 A passionate Linux enthusiast and Full stack Web developer hobbyist—just an ordinary guy who loves exploring, experimenting, and tinkering with computers during my freetime!💻</samp>
 
-<samp>- ⌨️ Fun fact: I spend approximately 4 hours coding every day, mastering both front-end and back-end! ⚙️</samp>
+<samp>- ⌨️ Fun fact:🌱 I’m currently learning how to code properly</samp>
 
 <h3 align="center"><samp>Connect</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
