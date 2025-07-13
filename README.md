@@ -19,31 +19,10 @@
 ### 📬 Reach Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tarankumar-p-954948257/)
-- 📧 ptarankumar@gmail.com  
+- 📧 ptarankumar@gmail.com
+- 😊Check out my Blog [Medium](https://medium.com/@ptarankumar)
 - 🌱 A passionate Linux enthusiast and full stack developer who enjoys exploring and tinkering with technology  
 - ⌨️ Fun fact: I’m currently learning how to code properly 😄
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tarankumar-p-954948257/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" />
-  </a>
-  &nbsp;
-  <a href="https://g.dev/ptarankumar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gcp" alt="Google Developer" width="45" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" width="45" />
-  </a>
-  &nbsp;
-  <a href="https://medium.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="45" />
-  </a>
-</p>
 
 ---
 
