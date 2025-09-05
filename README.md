@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <a href="[https://bugswriter.com/work](https://my-portfolio-one-weld-51.vercel.app/)">My Portfolio</a>
+  <a href="https://my-portfolio-one-weld-51.vercel.app/">My Portfolio</a>
 </p>
