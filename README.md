@@ -29,7 +29,7 @@
 
 #### ⚙️ Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,figma,threejs" />
+<img src="https://skillicons.dev/icons?i=react,tailwindcss,nextjs,figma,threejs" />
 </p>
 
 #### 🔩 Backend & DB
@@ -39,7 +39,7 @@
 
 #### 🧰 Tools, OS & More
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,arch,windows" />
+  <img src="https://skillicons.dev/icons?i=git,arch,windows" />
 </p>
 
 ---
