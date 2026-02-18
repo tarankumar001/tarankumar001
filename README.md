@@ -47,7 +47,7 @@
 <h2 align="center">🐍 Contributions 🐍</h2>
 <br>
 <div align="center">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/tarankumar001/tarankumar001/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/tarankumar001/tarankumar001/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br/>
