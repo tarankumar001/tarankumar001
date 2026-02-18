@@ -1,4 +1,4 @@
-<!-- ================= HEADER ================= -->
+[<!-- ================= HEADER ================= -->
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tarankumar001.tarankumar001" />
 
@@ -90,3 +90,4 @@ Multiple projects built using React, Firebase, Node.js, and APIs.
 If you're interested in collaboration, projects, or tech discussions — feel free to connect.
 
 ---
+](https://github.com/tarankumar001/tarankumar001.git)
