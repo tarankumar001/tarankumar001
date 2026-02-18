@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" />
+</p>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tarankumar001.tarankumar001" />
 
 <h1 align="center">
@@ -10,8 +14,10 @@
 
 <div align="center">
 
-🔭 I'm a dragon lost in human world trying to find a balance between linux and web development. I do machine learning by day and build things for the web by night.
+🔭 I'm a dragon lost in human world trying to find a balance between linux and web development. I do linux by day and build things for the web by night.
+<br/>
 🌱 Learning **Linux**  
+<br/>
 👾 Currently interested in building things in Minecraft.
 
 </div>
@@ -49,30 +55,3 @@
 
 ---
 
-## ⚡ GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=tarankumar001&theme=react&border_radius=10"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=tarankumar001&show_icons=true&theme=react"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarankumar001&layout=compact&theme=react"/>
-
-</div>
-
----
-
-## 🚀 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tarankumar001&theme=react-dark"/>
-
----
-
-<div align="center">
-
-### 🚀 Let’s Build Something Amazing Together
-
-</div>
