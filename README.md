@@ -24,8 +24,6 @@
 
 --- -->
 
-## 🌐 Connect With Me
-
 <div align="center">
 
 <a href="mailto:ptarankumar@gmail.com">
